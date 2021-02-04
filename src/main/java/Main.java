@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class Main {
 
+	// This is just a test playground.
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		MyDatabase db = new Database();
